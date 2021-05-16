@@ -395,7 +395,7 @@
     },
     "node-red-contrib-boolean-logic-ultimate": {
         "name": "node-red-contrib-boolean-logic-ultimate",
-        "version": "1.0.27",
+        "version": "1.0.28",
         "local": true,
         "user": true,
         "nodes": {
@@ -476,8 +476,7 @@
                 "module": "node-red-contrib-boolean-logic-ultimate",
                 "file": "/home/pi/.node-red/node_modules/node-red-contrib-boolean-logic-ultimate/boolean-logic-ultimate/InjectUltimate.js"
             }
-        },
-        "pending_version": "1.0.28"
+        }
     },
     "node-red-contrib-home-assistant-websocket": {
         "name": "node-red-contrib-home-assistant-websocket",

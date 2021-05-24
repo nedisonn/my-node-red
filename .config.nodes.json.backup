@@ -803,7 +803,8 @@
                 "module": "node-red-node-email",
                 "file": "/home/pi/.node-red/node_modules/node-red-node-email/61-email.js"
             }
-        }
+        },
+        "pending_version": "1.12.1"
     },
     "node-red-node-pushbullet": {
         "name": "node-red-node-pushbullet",

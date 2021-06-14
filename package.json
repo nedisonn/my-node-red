@@ -5,8 +5,8 @@
     "private": true,
     "dependencies": {
         "node-red-contrib-alexa-cakebaked": "~4.0.2",
-        "node-red-contrib-boolean-logic-ultimate": "~1.0.28",
-        "node-red-contrib-home-assistant-websocket": "~0.30.1",
+        "node-red-contrib-boolean-logic-ultimate": "~1.0.29",
+        "node-red-contrib-home-assistant-websocket": "~0.33.1",
         "node-red-contrib-play-audio": "^2.5.0",
         "node-red-contrib-spotify": "~0.1.4",
         "node-red-contrib-sunevents": "~3.0.3",

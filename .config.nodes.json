@@ -798,7 +798,7 @@
     },
     "node-red-node-serialport": {
         "name": "node-red-node-serialport",
-        "version": "0.14.0",
+        "version": "0.14.1",
         "local": true,
         "user": true,
         "nodes": {
@@ -839,7 +839,7 @@
     },
     "node-red-contrib-alexa-cakebaked": {
         "name": "node-red-contrib-alexa-cakebaked",
-        "version": "4.0.2",
+        "version": "4.0.3",
         "local": true,
         "user": true,
         "nodes": {
